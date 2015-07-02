@@ -3,6 +3,8 @@ set autoindent
 set expandtab
 set shiftwidth=4
 
+set backspace=indent,eol,start 
+
 set nocompatible
 
 set fileformats=unix,dos
