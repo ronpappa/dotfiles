@@ -2,7 +2,8 @@ set tabstop=4
 set autoindent
 set expandtab
 set shiftwidth=4
-
+set list
+set listchars=tab:>\ ,trail:_
 set backspace=indent,eol,start 
 
 set nocompatible
